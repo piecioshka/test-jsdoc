@@ -1,5 +1,7 @@
 # test-jsdoc
 
+📒 Testing JSDoc defined in `*.d.ts` file
+
 1. `main.js` - Source code with import of types
 
   ```js
@@ -15,3 +17,8 @@
     email: string;
   }
   ```
+
+## Resources
+
+* https://github.com/jsdoc/jsdoc
+* https://jsdoc.app/
